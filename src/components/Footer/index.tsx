@@ -53,14 +53,10 @@ const Footer: React.FC = () => {
 
       <span className="copyright">
         © {new Date().getFullYear()} - Template developed by
-        <a
-          href="https://github.com/guvarallo"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
+        
           {' '}
           Gus Varallo
-        </a>
+        
       </span>
     </Container>
   );

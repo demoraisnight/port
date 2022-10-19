@@ -6,10 +6,10 @@ import project3 from '../assets/project3.png';
 
 export const colors = {
   first: '#232122',
-  second: '#b3c100',
-  third: '#4cb5f5',
-  fourth: '#dddede',
-};
+  second: '#836FFF', //ficou legal
+  third: '#87CEEB',
+  fourth: '#363636', //#363636
+}; 
 
 export const headData = {
   title: 'Name | Web developer',
@@ -18,7 +18,7 @@ export const headData = {
 
 export const mainData = {
   title: 'Hi, my name is ',
-  name: 'Full Name',
+  name: 'Vinícius de Morais',
   subtitle: 'I am a web developer',
   cta: 'Know more',
 };
@@ -89,10 +89,10 @@ export const projectData = [
 export const contactData = {
   title: 'Contact',
   description: 'Send me an e-mail!',
-  mailTo: 'mailto:gustavo@varallo.me',
+  mailTo: 'mailto:viniciusdemoraisrosa@gmail.com',
 };
 
 export const FooterData = {
-  githubUrl: 'https://github.com/guvarallo',
-  linkedinUrl: 'https://www.linkedin.com/in/gustavovarallo/',
+  githubUrl: 'https://github.com/demoraisnight',
+  linkedinUrl: 'https://br.linkedin.com/in/vin%C3%ADcius-de-morais-rosa-21bb32234',
 };
